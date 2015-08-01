@@ -1,0 +1,11 @@
+/content/13889
+Assets/DecalSystem\documentation.pdf,f6847f9da5a644244bf29a7333370c12
+Assets/DecalSystem\Scene.unity,9eda6808c66ab1c46ab0f16df5b62ea1
+Assets/DecalSystem\Decals\DecalA.mat,49ddd49cbe29cda4993fc86c8c87f787
+Assets/DecalSystem\Decals\DecalB.mat,4225299b42ebeef48b66f3553d2bb9cc
+Assets/DecalSystem\Decals\decals_package_a.psd,5524b318e995544458f06c03ffd8fde1
+Assets/DecalSystem\Decals\decals_package_b.psd,23c5619a3ba9a7f4381fe9b64caab0d6
+Assets/DecalSystem\DecalSystem\Decal.cs,cc94ce5ba77fa1d45ba7c6a0df113ba5
+Assets/DecalSystem\DecalSystem\Editor\DecalBuilder.cs,f98e1d5baaf96ac479488444c07c9a0a
+Assets/DecalSystem\DecalSystem\Editor\DecalEditor.cs,c76fefbf8256a41738d6cc566ab6c1cc
+Assets/DecalSystem\DecalSystem\Editor\DecalPolygon.cs,58e1afa2cc6392d42aa4751902a525c5
